@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createAt": "2023-04-12T18:44:16.966Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 50,
+      "createAt": "2023-04-12T18:30:16.966Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educacao",
+      "price": 1980,
+      "createAt": "2023-04-12T18:24:16.966Z"
+    },
+    {
+      "description": "tattoo",
+      "price": 500,
+      "category": "style",
+      "type": "outcome",
+      "createAt": "2023-04-13T12:01:41.632Z",
+      "id": 4
+    },
+    {
+      "description": "desenvolvimento app",
+      "price": 5000,
+      "category": "venda",
+      "type": "income",
+      "createAt": "2023-04-13T12:24:11.673Z",
+      "id": 5
+    },
+    {
+      "description": "a",
+      "price": 1,
+      "category": "2",
+      "type": "income",
+      "createAt": "2023-04-13T13:17:56.234Z",
+      "id": 6
+    },
+    {
+      "description": "b",
+      "price": 2,
+      "category": "b",
+      "type": "income",
+      "createAt": "2023-04-13T13:18:03.948Z",
+      "id": 7
+    },
+    {
+      "description": "c",
+      "price": 3,
+      "category": "c",
+      "type": "income",
+      "createAt": "2023-04-13T13:18:09.052Z",
+      "id": 8
+    },
+    {
+      "description": "d",
+      "price": 4,
+      "category": "d",
+      "type": "income",
+      "createAt": "2023-04-13T13:18:14.520Z",
+      "id": 9
+    },
+    {
+      "description": "Desenvolvimento site 2",
+      "price": 6000,
+      "category": "vendas",
+      "type": "income",
+      "createAt": "2023-04-13T17:44:19.422Z",
+      "id": 10
+    }
+  ]
+}
